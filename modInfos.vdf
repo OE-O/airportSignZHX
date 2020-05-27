@@ -1,0 +1,13 @@
+"workshopitem"
+{
+	"appid" "598330"
+	"publishedfileid" "2108644022"
+	"contentfolder" "C:/Users/befubo/AppData/LocalLow/LVGameDev LLC/SimAirport\Mods\airportSignZHX"
+	"previewfile" "C:/Users/befubo/AppData/LocalLow/LVGameDev LLC/SimAirport\Mods\airportSignZHX\preview.png"
+	"visibility" "2"
+	"title" "Airport Welcome Sign (Zurich)"
+	"description" "A big and small airport sign (outdoor) for your favourite swiss airport.
+
+Thanks to modair for helping me with my first mod for SimAirport!"
+	"changenote" "Added a smaller Sign (4x1)"
+}

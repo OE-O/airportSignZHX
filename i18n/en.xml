@@ -1,0 +1,9 @@
+<Befubo>
+    <airportSignMod>
+         <signZHX>Sign ZHX</signZHX>
+         <signZHXdesc>This is a big sign to display the airport name (Zurich).</signZHXdesc>
+		 
+         <signZHXsmall>Sign ZHX small</signZHXsmall>
+         <signZHXsmalldesc>This is a smaller sign to display the airport name (Zurich).</signZHXsmalldesc>
+    </airportSignMod>
+</Befubo>

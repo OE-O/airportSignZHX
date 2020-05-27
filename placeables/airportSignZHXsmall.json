@@ -1,0 +1,105 @@
+{
+  "ComponentConfigData": [],
+  "DisplayCategories": [
+    0,
+    20
+  ],
+  "RequiredLevels": [],
+  "requiredAdministrators": [],
+  "Hidden": false,
+  "CreatePrice": -250.0,
+  "HourlyPrice": 0.0,
+  "HourlyPriceCategory": 2,
+  "isDestroyable": true,
+  "bWriteToMapCache": true,
+  "MaxAllowed": -1,
+  "requiresSecureArea": false,
+  "requiresSectorRebuild": false,
+  "PlacementSound": 1,
+  "snapToGridSize": 1,
+  "constructionType": 1,
+  "constructionDuration": 120.0,
+  "Properties": [
+    1,
+	2
+  ],
+  "BlockedBy": [
+    0,
+    1,
+	3,
+	31
+  ],
+  "width": 4,
+  "height": 1,
+  "StaffRequired": 0,
+  "Maintainable_MTBF": -1,
+  "path": "Befubo/airportSignMod",
+  "rotateType": 5,
+  "frontFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": -0.6,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "zhxFrontsmall"
+      }
+    ]
+  },
+  "backFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": -0.6,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "zhxBacksmall"
+      }
+    ]
+  },
+  "leftFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": -0.6,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "zhxLeftsmall"
+      }
+    ]
+  },
+  "rightFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": -0.6,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "zhxRightsmall"
+      }
+    ]
+  },
+  "_i18nNameKey": "Befubo.airportSignMod.signZHXsmall",
+  "_i18nDescKey": "Befubo.airportSignMod.signZHXsmalldesc",
+  "name": "signZHXsmall"
+}
